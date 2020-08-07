@@ -215,4 +215,4 @@ void sort_entries()
 }
 
 
-/***** End of program *****/
+/**** End of program ****/
